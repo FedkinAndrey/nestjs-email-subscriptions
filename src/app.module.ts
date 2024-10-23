@@ -25,7 +25,7 @@ import Subscriber from './subscribers/subscriber.entity';
       }),
     }),
   ],
-  controllers: [SubscribersController],
-  providers: [AppService, SubscribersService],
+  controllers: [],
+  providers: [],
 })
 export class AppModule {}
